@@ -114,6 +114,7 @@ Helpful jupyter noteboks that I compiled while learning Machine Learning and Dee
 
 6. [Long Short Term Memory Neural Networks (LSTM)](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/09.%20Neural%20Networks/4.%20Recurrent%20Neural%20Networks%20and%20LSTM%20(Theory).ipynb)
 
+---
 
 ## Sources / References:
 1. [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
@@ -121,3 +122,11 @@ Helpful jupyter noteboks that I compiled while learning Machine Learning and Dee
 3. [Deep Learning A-Z (Udemy)](https://www.udemy.com/deeplearning/)
 4. [Neural Networks by Geoffrey (Hinton Coursera)](https://www.coursera.org/learn/neural-networks)
 5. [Scikit-learn Cookbook (Second Edition) - Julian Avila et. al](https://www.packtpub.com/big-data-and-business-intelligence/scikit-learn-cookbook-second-edition)
+
+---
+## Webminar
+1. [car price prediction](https://github.com/sahidul-shaikh/car-price-prediction-linear-regression/blob/main/car-price-prediction-linear-regression.ipynb)
+2. [multiple linear regression with backward propogration](https://www.kaggle.com/code/hitesh19/multi-linear-regression-with-backward-elimination)
+3. [polynomial regression](https://github.com/maykulkarni/Machine-Learning-Notebooks/blob/master/02.%20Regression/3.%20Polynomial%20Regression.ipynb)
+4. [linear regression toy](https://github.com/facebookarchive/tutorials/blob/master/Toy_Regression.ipynb)
+5. [binary regression](https://www.kaggle.com/code/johnduva/logistic-regression-social-network-ads)
